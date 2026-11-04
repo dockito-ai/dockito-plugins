@@ -1,6 +1,12 @@
 {
   "name": "dockito",
-  "owner": { "name": "Dockito", "email": "hello@dockito.ai" },
+  "owner": {
+    "name": "Dockito",
+    "email": "hello@dockito.ai"
+  },
+  "metadata": {
+    "description": "Dockito's plugin: docs, sheets, Slides, boards, API docs and database designs for your AI."
+  },
   "plugins": [
     {
       "name": "dockito",
