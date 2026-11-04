@@ -1,0 +1,8 @@
+{
+  "name": "dockito",
+  "version": "1.0.1",
+  "description": "One home for docs, live sheets, Slides, boards, API docs and database designs, made by Humans and AI.",
+  "mcpServers": {
+    "dockito": { "httpUrl": "https://dockito.ai/mcp" }
+  }
+}

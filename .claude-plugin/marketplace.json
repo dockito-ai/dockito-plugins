@@ -1,0 +1,11 @@
+{
+  "name": "dockito",
+  "owner": { "name": "Dockito", "email": "hello@dockito.ai" },
+  "plugins": [
+    {
+      "name": "dockito",
+      "source": "./plugins/dockito",
+      "description": "One home for docs, live sheets, Slides, boards, API docs and database designs, made by Humans and AI."
+    }
+  ]
+}

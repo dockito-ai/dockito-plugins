@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "dockito": { "type": "http", "url": "https://dockito.ai/mcp" }
+  }
+}
