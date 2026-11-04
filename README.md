@@ -11,6 +11,8 @@ This repo holds the install files for AI tools. Dockito's source is not here.
 /plugin install dockito@dockito
 ```
 
+The plugin connects Dockito's MCP server and adds the Dockito skill, which also uses the `dockito` CLI when it's installed (`brew install dockito-ai/tap/dockito`).
+
 ## Gemini CLI
 
 ```
