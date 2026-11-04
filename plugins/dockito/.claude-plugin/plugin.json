@@ -1,8 +1,8 @@
 {
   "name": "dockito",
   "version": "1.0.1",
-  "description": "One home for docs, live sheets, Slides, boards, API docs and database designs, made by Humans and AI. Your AI publishes and edits them; your team works in them, live.",
-  "author": { "name": "Dockito", "email": "hello@dockito.ai", "url": "https://dockito.ai" },
+  "description": "One home for docs, live sheets, Slides, boards, API docs and DB designs, engineered to be AI first. Your AI publishes and edits them; your team works in them, live.",
+  "author": { "name": "Dockito Labs", "email": "hello@dockito.ai", "url": "https://dockito.ai" },
   "homepage": "https://dockito.ai",
   "repository": "https://github.com/dockito-ai/dockito-plugins",
   "documentationUrl": "https://dockito.ai/help/agents/connect",

@@ -1,7 +1,7 @@
 {
   "name": "dockito",
   "owner": {
-    "name": "Dockito",
+    "name": "Dockito Labs",
     "email": "hello@dockito.ai"
   },
   "metadata": {
@@ -11,7 +11,7 @@
     {
       "name": "dockito",
       "source": "./plugins/dockito",
-      "description": "One home for docs, live sheets, Slides, boards, API docs and database designs, made by Humans and AI."
+      "description": "One home for docs, live sheets, Slides, boards, API docs and DB designs, engineered to be AI first."
     }
   ]
 }
