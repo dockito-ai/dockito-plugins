@@ -4,5 +4,7 @@
   "description": "One home for docs, live sheets, Slides, boards, API docs and database designs, made by Humans and AI. Your AI publishes and edits them; your team works in them, live.",
   "author": { "name": "Dockito", "email": "hello@dockito.ai", "url": "https://dockito.ai" },
   "homepage": "https://dockito.ai/help/agents/connect",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
   "keywords": ["docs", "spreadsheets", "slides", "whiteboard", "openapi", "dbml", "mcp"]
 }
