@@ -13,14 +13,6 @@ This repo holds the install files for AI tools. Dockito's source is not here.
 
 The plugin connects Dockito's MCP server and adds the Dockito skill, which also uses the `dockito` CLI when it's installed (`brew install dockito-ai/tap/dockito`).
 
-## Grok Build
-
-```
-grok plugin install dockito
-```
-
-Or type `/marketplace` in Grok Build and install Dockito.
-
 ## Gemini CLI
 
 ```
